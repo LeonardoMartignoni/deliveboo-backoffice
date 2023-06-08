@@ -13,4 +13,6 @@ Il backoffice di Deliveboo offre diverse funzionalità per semplificare la gesti
 
 ## Repo del Frontoffice
 
-Per completare l'applicazione Deliveboo, ti consigliamo di dare un'occhiata anche alla repository del frontoffice disponibile al seguente link: [Deliveboo Frontoffice Repo](https://github.com/LeonardoMartignoni/deliveboo-frontoffice). Lì troverai l'interfaccia utente dell'applicazione che permette agli utenti di selezionare ristoranti, visualizzare i menu e effettuare ordini comodamente da casa.
+Per completare l'applicazione Deliveboo, ti consigliamo di dare un'occhiata anche alla repository del frontoffice disponibile al seguente link: [Deliveboo Frontoffice Repo](https://github.com/LeonardoMartignoni/deliveboo-frontoffice).
+
+Lì troverai l'interfaccia utente dell'applicazione che permette agli utenti di selezionare ristoranti, visualizzare i menu e effettuare ordini comodamente da casa.
